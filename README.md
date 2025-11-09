@@ -1,4 +1,4 @@
-# 🏥 AI Insurance Claim Processing System
+# 🏥 AI Insurance Claims Fulfillment Automation System
 
 A comprehensive microservices-based system for automated insurance claim processing using AI/LLM technology, email monitoring, and cloud storage integration.
 
